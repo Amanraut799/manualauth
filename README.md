@@ -1,2 +1,2 @@
 # manualauth
-my git initial00000000000000000
+my git initial
